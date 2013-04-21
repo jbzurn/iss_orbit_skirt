@@ -7,6 +7,8 @@
 //the flight will slowly light up around the skirt over a period of 91 min. until it reaches the
 //approximate time when it is over our city (indicated by it's presence over the Earth).
 
+//See video at http://youtu.be/lWVBHn2fE2E 
+
 
 //credit for original starting point for code was the blinking bike safety patch
 //http://www.instructables.com/id/LilyPad-Arduino-Blinking-Bike-Safety-Patch/step5/Program-the-Board/
