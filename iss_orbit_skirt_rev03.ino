@@ -1,6 +1,6 @@
 //ISS Orbit Skirt
 //iss_orbit_skirt_rev02.ino
-//Project by Leslie Birch, Sonia Petruse and J. Brooks Zurn.
+//Project by Leslie Birch and J. Brooks Zurn.
 //Space Apps 2013
 //This project helps to show the orbit of the International Space Station (ISS) around our planet 
 //using a black skirt displaying an image of the earth. Using Lilypad Arduino and stitchable LED's, 
